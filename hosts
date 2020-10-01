@@ -1,0 +1,3 @@
+testserver ansible_host=ansible.testserver ansible_port=22 ansible_user=ansible ansible_private_key_file=~/.ssh/id_rsa
+
+
