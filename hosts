@@ -1,3 +1,1 @@
 testserver ansible_host=ansible.testserver ansible_port=22
-
-
